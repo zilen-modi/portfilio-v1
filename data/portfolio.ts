@@ -7,7 +7,7 @@ export const profile = {
   role: "Full Stack Engineer",
   tagline: "Building scalable web applications & cloud-native systems.",
   about: [
-    "I'm a Full Stack Engineer with 2+ years of experience crafting enterprise-grade products and cloud-native architectures. Currently at Distinction Dev, I design serverless pipelines on AWS and ship fast, production-ready frontends.",
+    "I'm a Full Stack Engineer with 3.5+ years of experience crafting enterprise-grade products and cloud-native architectures. Currently at Distinction Dev, I design serverless pipelines on AWS and ship fast, production-ready frontends.",
     "I care deeply about scalable system design, clean code, and delivering measurable impact — whether that's a 70% Lighthouse score improvement or an auction platform handling 2.4M participants.",
   ],
   focus: [
@@ -27,7 +27,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "2+",   label: "Years experience" },
+  { value: "3.5+",   label: "Years experience" },
   { value: "12+",  label: "Devs mentored" },
   { value: "70%",  label: "Lighthouse boost" },
   { value: "785+", label: "LeetCode solved" },
